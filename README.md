@@ -13,15 +13,18 @@ This is a simple stopwatch application built with React. It allows users to star
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+       https://github.com/Shweyy123/STOPWATCH.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
+       cd stopwatch
 
-3. Install the dependencies:
+4. Install the dependencies:
        npm install
-4. Start the development server:
+   
+6. Start the development server:
        npm start
 
-Usage:
+##Usage:
 
 Once the app is running, you can use the following controls:
 
