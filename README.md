@@ -24,20 +24,20 @@ To run this project locally, follow these steps:
 6. Start the development server:
        npm start
 
-**Usage**:
+## Usage
 
 Once the app is running, you can use the following controls:
 
-Start: Click the "Start" button to begin the stopwatch.
+  1) Start: Click the "Start" button to begin the stopwatch.
 
-Stop: Click the "Stop" button to pause the stopwatch.
+  2) Stop: Click the "Stop" button to pause the stopwatch.
 
-Reset: Click the "Reset" button to reset the stopwatch back to 00:00:00.
+  3) Reset: Click the "Reset" button to reset the stopwatch back to 00:00:00.
 
-**Technologies Used**:
+## Technologies Used
 
-React: A JavaScript library for building user interfaces.
+  1) React: A JavaScript library for building user interfaces.
 
-CSS: For styling the components.
+  2) CSS: For styling the components.
 
-JavaScript (ES6+): For the application logic.
+  3) JavaScript (ES6+): For the application logic.
